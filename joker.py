@@ -1,3 +1,4 @@
+#All credit goes to Mastermind-sap/joker
 import discord
 import random
 from discord.ext import commands,tasks
